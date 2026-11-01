@@ -38,4 +38,4 @@ python3 report.py --csv my_tasks.csv --out report.md --html report.html
 
 1. Update statuses and deadlines in `tasks.csv`.
 2. Run `python3 report.py --date <today>`.
-3. Send the client `report.html` (or print it to PDF).
+3. Send the client `report.html` https://myloserdova.github.io/report_example/report.html (or print it to PDF).
