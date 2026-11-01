@@ -11,7 +11,7 @@
 ## Coming up in the next 7 days
 - 11 Nov: Social media launch plan (Kate, In progress)
 - 12 Nov: Contact & location page (Ivan, In progress)
-- 13 Nov: On-page SEO optimization (Olga, In progress)
+- 13 Nov: On-page SEO optimization (Olha, In progress)
 - 14 Nov: Online ordering integration (Ivan, In progress)
 - 16 Nov: Cross-browser QA (Max, Not started)
 
